@@ -9,7 +9,7 @@ What is Zeus?
 Zeus is a decentralised digital currency with near-instant transaction speeds and negligible transaction fees built upon Proof of Stake 3.0 (PoSV3, BPoS) as
 introduced by the Zeus development team.
 
-For more information about Zeus itself, see https://zeus.org.
+For more information about Zeus itself, see https://europazeus.org.
 
 What is Zeus?
 ----------------
@@ -29,7 +29,7 @@ Development Process
 -------------------
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/zeus/tags) are created
+completely stable. [Tags](https://github.com/europa-project/Zeus/tags) are created
 regularly to indicate new official, stable release versions of Zeus.
 
 Change log can be found in [CHANGELOG.md](CHANGELOG.md).
